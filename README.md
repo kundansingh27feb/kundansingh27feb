@@ -16,7 +16,7 @@ strategic deployment goals.
 
 ## 🌱 Work History:
 
-# 2015-07 - Current DevOps Engineer
+- 2015-07 - Current DevOps Engineer
 ANR Pvt. Ltd, Noida, India Infrastructure Automation and Management: Spearheaded the automation and management of Azure cloud infrastructure utilizing Terraform, Azure DevOps, enhancing operational efficiency and reliability. 
 
 CI/CD and DevOps Integration: Utilized Azure DevOps for comprehensive automation across build, test, and deployment pipelines, significantly reducing time-to-market. 
@@ -38,19 +38,19 @@ System Monitoring and Troubleshooting: Monitored system logs and addressed incid
 
 ## 👯 Education:
 
-# 2020-01 - 2023-08 BCA: Computer Engineering Technology Swami Vivekanand Subharti University - Meerut, UP GPA: 65.7%.
-# 2012-01 - 2015-04 3 Years Polytechnic Diploma Govt. Polytechnic Gauchar - Gauchar, Chamoli GPA: 79.7% With Honors.
-# 2010-01 - 2011-04 Intermediate Inter Collage Khirkhet - Ranikhet, Uttarakhand GPA: 59.9%
-# 2009-01 - 2010-04 High School Diploma Inter Collage Khirkhet - Ranikhet, Uttarakhand GPA: 56.0%
+ - 2020-01 - 2023-08 BCA: Computer Engineering Technology Swami Vivekanand Subharti University - Meerut, UP GPA: 65.7%.
+ - 2012-01 - 2015-04 3 Years Polytechnic Diploma Govt. Polytechnic Gauchar - Gauchar, Chamoli GPA: 79.7% With Honors.
+ - 2010-01 - 2011-04 Intermediate Inter Collage Khirkhet - Ranikhet, Uttarakhand GPA: 59.9%
+ - 2009-01 - 2010-04 High School Diploma Inter Collage Khirkhet - Ranikhet, Uttarakhand GPA: 56.0%
 
 ## ⚡ Certifications:
 
-# 2018-09 RHCSA
-# 2018-11 RHCE
-# 2019-11 AWS
-# 2021-09 RedHat Openstack
-# 2022-07 Red Hat Certified OpenShift Administrator
-# 2023-08 GCP
+- 2018-09 RHCSA
+- 2018-11 RHCE
+- 2019-11 AWS
+- 2021-09 RedHat Openstack
+- 2022-07 Red Hat Certified OpenShift Administrator
+- 2023-08 GCP
 
 ## 📫 Personal Strengths:
 

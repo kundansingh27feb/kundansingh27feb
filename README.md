@@ -51,6 +51,7 @@ System Monitoring and Troubleshooting: Monitored system logs and addressed incid
 - 2021-09 RedHat Openstack
 - 2022-07 Red Hat Certified OpenShift Administrator
 - 2023-08 GCP
+- 2024-11 Azure Cloud
 
 ## 📫 Personal Strengths:
 
